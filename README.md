@@ -4,7 +4,9 @@ Aplicación web interactiva que compara la **probabilidad teórica** de un event
 
 > Proyecto de Análisis Numérico · Ingeniería de Sistemas · Universidad del Cauca
 
-**Integrantes:** Royman, Leider Ceron, Yineidy Mamian, Fabian Dorado · Mario Elcias
+**Integrantes:** Royman, Leider Ceron, Yineidy Mamian, Fabian Dorado
+
+**Presentado a (docente):** Mario Elcias
 
 ---
 

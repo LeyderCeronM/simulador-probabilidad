@@ -411,6 +411,9 @@ input[type="range"] { width: 100%; margin: 14px 0 2px; accent-color: var(--prima
 .team li { display: flex; align-items: center; gap: 12px; font-weight: 600; }
 .avatar { width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; color: #fff; font-weight: 800; background: linear-gradient(135deg, var(--primary-strong), var(--accent)); }
 .avatar.alt { background: linear-gradient(135deg, #f59e0b, #f43f5e); }
+.teacher { margin: 0 0 18px; padding-top: 16px; border-top: 1px dashed var(--border-strong); }
+.teacher-label { display: inline-block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--warn); background: var(--warn-soft); padding: 4px 11px; border-radius: 999px; margin-bottom: 10px; }
+.teacher-card { display: flex; align-items: center; gap: 12px; padding: 10px 14px; border-radius: 14px; background: var(--surface-2); border: 1px solid var(--border); }
 .tech { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px; margin-top: 16px; }
 .tech article { padding: 16px; border-radius: 14px; background: var(--surface-2); border: 1px solid var(--border); display: flex; flex-direction: column; gap: 6px; transition: 0.2s; }
 .tech article:hover { transform: translateY(-3px); border-color: var(--primary); }
